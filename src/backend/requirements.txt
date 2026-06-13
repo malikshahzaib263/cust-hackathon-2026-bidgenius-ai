@@ -1,0 +1,9 @@
+
+uvicorn
+pandas
+scikit-learn
+joblib
+python-multipart
+openpyxl
+pymupdf
+rapidfuzz
